@@ -18,9 +18,6 @@ class Application(tk.Frame):
         self.__character_sheet = cs.CharacterSheet()
         self.__master = master
         self.__filename = ""
-        # w tym miejscu inicjacja wszystkich elementow interfejsu jako None
-        # inicjacja wszystkich elementow interfejsu zostala usunieta jedynie w celu pokazania __init__ w dokumentacji
-        # przyklad inicjacji ponizej:
         # okno startowe
         self.__pht_logo = None
         self.__can_logo = None

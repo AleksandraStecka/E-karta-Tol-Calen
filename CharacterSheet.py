@@ -331,9 +331,6 @@ class CharacterSheet:
                 '_CharacterSheet__skills' not in json_object or '_CharacterSheet__point_stats' not in json_object or \
                 '_CharacterSheet__is_mage' not in json_object:
             return False
-        # w tym miejscu aktualizowanie wszystkich wartosci w karcie postaci z wartosciami z json_object
-        # nadpisanie wszystkich wartosci zostalo usuniete jedynie w celu pokazania metody w dokumentacji
-        # przyklad nadpisania ponizej:
         self.__concept['imię'] = json_object['_CharacterSheet__concept']['imię']
         self.__concept['pochodzenie'] = json_object['_CharacterSheet__concept']['pochodzenie']
         self.__concept['klasa'] = json_object['_CharacterSheet__concept']['klasa']
