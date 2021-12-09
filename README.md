@@ -1,4 +1,4 @@
-# js21
+# E-karta Tol Calen
 System Tol Calen jest wyłączną własnością BTA Kompas. Logo systemu wykorzystane w oknie startowym aplikacji oraz jako ikona aplikacji jest wyłączną własnością BTA Kompas.
 Elementy systemu oraz logo zostały wykorzystane jako elementy projektu w ramach przedmiotu Języki skryptowe napisanego wyłącznie na użytek indywidualny.
 -
