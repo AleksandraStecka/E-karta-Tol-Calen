@@ -1,6 +1,7 @@
 # E-karta Tol Calen
 System Tol Calen jest wyłączną własnością BTA Kompas. Logo systemu wykorzystane w oknie startowym aplikacji oraz jako ikona aplikacji jest wyłączną własnością BTA Kompas.
 Elementy systemu oraz logo zostały wykorzystane jako elementy projektu w ramach przedmiotu Języki skryptowe napisanego wyłącznie na użytek indywidualny.
+Mechanika karty postaci jest mechaniką systemu aktualną w latach 2018-2019.
 -
 Gry fabularne – inaczej gry RPG – to połączenie fabularnych gier komputerowych, gier planszowych oraz teatru improwizowanego. Podstawowymi atrybutami graczy są karta postaci i kości do gry. 
 W systemie Tol Calen, którego dotyczy projekt, karta postaci zawiera następujące elementy: 
@@ -35,7 +36,7 @@ W trakcie rozgrywki gracze dokonują następujących akcji:
 
 Gracze mogą grać tymi samymi postaciami przez wiele kampanii – na początku każdej nowej kampanii mają 3 Punkty Szczęścia oraz tracą niewydane Punkty Doświadczenia, Atrybutów i Umiejętności. Wszystkie wartości Atrybutów, Umiejętności i Ekwipunku powinny zostać takie same.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Moduł Dice.py zawiera implementację kości o n ściankach.
 
